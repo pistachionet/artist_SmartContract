@@ -10,9 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.2.1"
-  },
-  "dependencies": {
-    "web3": "^1.7.0"
+    "bootstrap": "^5.2.3",
+    "parcel": "^2.8.3",
+    "web3": "^1.8.2"
   }
 }
